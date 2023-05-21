@@ -1,0 +1,9 @@
+{
+	"name": "shriya-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "111e0337-97d5-4a28-82e9-df20b667d69a",
+		"tenantId": "1113be34-aed1-4d00-ab4b-cdd02510be91"
+	}
+}
